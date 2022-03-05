@@ -3,7 +3,7 @@ package com.atguigu.springclould.cloud2020;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class Cloud2020Application {
 
     public static void main(String[] args) {
